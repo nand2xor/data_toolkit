@@ -5,4 +5,5 @@ Loose collection of tools and scripts made for database-dump research, parsing a
 
 ## List of current tools:
 * Vigilante.pw Database List Fetcher (API-Wrapper, kind of)
-* More underway.
+* HaveIBeenPWNd DB List fetcher (Using API)
+* More to come
